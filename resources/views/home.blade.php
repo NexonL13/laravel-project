@@ -19,6 +19,9 @@
             </div>
         </div>
     </div>
+    <div class="container">
+        <webcam-component />
+    </div>
+    <example-component />
 </div>
-<example-component />
 @endsection
